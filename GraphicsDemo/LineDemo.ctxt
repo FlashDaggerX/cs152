@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LineDemo
+comment0.text=\n\ @author\ (Kyle\ Guarco)\n\ @version\ (July\ 21,\ 2020)\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=x\ group
+comment2.target=void\ vLine(int,\ javafx.scene.Group)
+comment3.params=y\ group\ color
+comment3.target=void\ hLine(int,\ javafx.scene.Group,\ javafx.scene.paint.Color[])
+comment4.params=dist\ group
+comment4.target=void\ stairs(int,\ javafx.scene.Group)
+numComments=5

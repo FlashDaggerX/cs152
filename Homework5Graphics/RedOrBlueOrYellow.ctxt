@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=RedOrBlueOrYellow
+comment0.text=\n\ @author\ (Kyle\ Guarco)\n\ @version\ (July\ 27,\ 2020)\n
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=event
+comment2.target=void\ processColorButton(javafx.event.ActionEvent)
+numComments=3

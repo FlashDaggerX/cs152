@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LLMagazineRec
+comment0.text=\n\ Class\ LLMagazineRec\ defines\ linked\ list\ of\ magazine\ objects.\ It\ includes\n\ recursive\ methods\ to\ print\ all\ magazines,\ to\ calculate\ sum\ pages\ in\ all\n\ magazines,\ and\ to\ find\ longest\ magazine\ in\ linked\ list.\n\ \n\ @author\ (Irena)\ and\ (Kyle\ Guarco)\n\ @version\ (July\ 19,\ 2020)\ \n
+comment1.params=
+comment1.target=LLMagazineRec()
+comment2.params=
+comment2.target=LLMagazineRec.Node\ getList()
+comment3.params=mag
+comment3.target=void\ addRear(Magazine)
+comment4.params=first
+comment4.target=java.util.ArrayList\ createArrayListRec(LLMagazineRec.Node)
+numComments=5

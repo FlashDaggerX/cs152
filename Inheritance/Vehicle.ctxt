@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\n\ This\ class\ represents\ the\ basic\ idea\ of\ anything\ that\ can\ \n\ transport\ people\ on\ land.\n\ \n\ @author\ (Kyle\ Guarco)\n\ @version\ (July\ 13,\ 2020)\n
+comment1.params=make\ weight\ height\ length\ maxSpeed\ maxPassengers
+comment1.target=Vehicle(java.lang.String,\ int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

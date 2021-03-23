@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Bus
+comment0.text=\n\ @author\ (Kyle\ Guarco)\n\ @version\ (July\ 13,\ 2020)\n
+comment1.params=numberDoors\ numberSeats\ numberAxels\ make\ weight\ height\ length\ maxSpeed
+comment1.target=Bus(int,\ int,\ int,\ java.lang.String,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

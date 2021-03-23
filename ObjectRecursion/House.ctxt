@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=House
+comment0.text=\n\ @author\ (Kyle\ Guarco)\n\ @version\ (July\ 12,\ 2020)\n
+comment1.params=houseNumber\ bedrooms\ sqFeet\ year\ cost
+comment1.target=House(int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=boolean\ isNew()
+comment4.params=
+comment4.target=boolean\ isExpensive()
+comment5.params=
+comment5.target=int\ getCost()
+numComments=6

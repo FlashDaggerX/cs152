@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=FXDrawing
+comment0.text=\n\ @author\ (Kyle\ Guarco)\n\ @version\ (July\ 27,\ 2020)\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=grp
+comment2.target=void\ createSky(javafx.scene.Group)
+comment3.params=grp
+comment3.target=void\ createOcean(javafx.scene.Group)
+comment4.params=grp
+comment4.target=void\ createBeach(javafx.scene.Group)
+numComments=5

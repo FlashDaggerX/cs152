@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Magazine
+comment0.text=\n\ Class\ Magazine\ describes\ magazine\ object\ that\ has\ title\ and\ number\ of\ pages\n\ \n\ @author\ (Irena)\n\ @version\ (July\ 17,\ 2020)\ \n
+comment1.params=p\ n
+comment1.target=Magazine(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getPages()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

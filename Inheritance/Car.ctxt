@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\n\ @author\ (Kyle\ Guarco)\n\ @version\ (July\ 13,\ 2020)\n
+comment1.params=isConvertable\ make\ weight\ height\ length\ maxSpeed\ maxPassengers
+comment1.target=Car(boolean,\ java.lang.String,\ int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

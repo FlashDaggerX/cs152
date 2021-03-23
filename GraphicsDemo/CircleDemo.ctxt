@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CircleDemo
+comment0.text=\n\ @author\ (Kyle\ Guarco)\n\ @version\ (July\ 22,\ 2020)\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=dist\ group\ color
+comment2.target=void\ colorfulCircle(int,\ javafx.scene.Group,\ javafx.scene.paint.Color[])
+comment3.params=dist\ width\ group\ color
+comment3.target=void\ colorfulCircleStroke(int,\ int,\ javafx.scene.Group,\ javafx.scene.paint.Color[])
+numComments=4

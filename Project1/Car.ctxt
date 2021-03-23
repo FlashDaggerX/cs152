@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\n\ @author\ (Kyle\ Guarco)\n\ @version\ (July\ 6,\ 2020)\n
+comment1.params=vin\ make\ model\ price\ year
+comment1.target=Car(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=java.lang.String\ getMake()
+comment4.params=
+comment4.target=int\ getYear()
+comment5.params=
+comment5.target=boolean\ isExpensive()
+comment6.params=
+comment6.target=boolean\ isAntique()
+numComments=7

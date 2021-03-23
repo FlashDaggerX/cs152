@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LLEmployee
+comment0.text=\n\ @author\ (Kyle\ Guarco)\n\ @version\ (July\ 20,\ 2020)\n
+comment1.params=
+comment1.target=LLEmployee()
+comment2.params=emp
+comment2.target=void\ addRear(Employee)
+comment3.params=
+comment3.target=void\ printLinkedList()
+comment4.params=
+comment4.target=double\ sumSalaries()
+comment5.params=first
+comment5.target=boolean\ isSortedBySalaryRec(LLEmployee.Node)
+comment5.text=\n\ Though\ it\ isn't\ specifed\ in\ the\ assignment\ documentation,\ this\ function\ should\ be\ \n\ able\ to\ figure\ out\ whether\ the\ list\ is\ sorted\ in\ descending\ order\ (largest\ ->\ smallest).\n\ \n\ This\ is\ implied\ when\ looking\ at\ the\ 'list2'\ layout,\ and\ also\ assuming\ the\ test\ should\ \n\ return\ at\ least\ one\ true\ value.\n
+comment6.params=first
+comment6.target=Employee\ highestPaidEmpRec(LLEmployee.Node)
+comment7.params=
+comment7.target=LLEmployee.Node\ getList()
+numComments=8

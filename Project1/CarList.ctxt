@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=CarList
+comment0.text=\n\ Parses\ and\ displays\ information\ from\ a\ list\ of\ cars.\n\ \n\ @author\ (Kyle\ Guarco)\n\ @version\ (July\ 6,\ 2020)\n
+comment1.params=listName
+comment1.target=CarList(java.lang.String)
+comment2.params=
+comment2.target=void\ printList()
+comment3.params=make
+comment3.target=void\ printCarsWithMake(java.lang.String)
+comment4.params=
+comment4.target=int\ countAntiqueCars()
+comment5.params=
+comment5.target=Car\ newestCar()
+comment6.params=
+comment6.target=java.util.ArrayList\ antiqueExpensiveCarList()
+comment7.params=
+comment7.target=boolean\ isEmpty()
+comment8.params=fileName
+comment8.target=java.util.ArrayList\ parse(java.lang.String)
+numComments=9
